@@ -1,0 +1,8 @@
+.pane {
+    -fx-background-color: #d66711;
+    -fx-border-color: black;
+}
+.button {
+    -fx-background-color: #aa65f0;
+    -fx-border-color: black;
+}
